@@ -1,0 +1,1 @@
+This repo is created for working with mathematical modeling in Python.  Topics I plan to explore are linear programming and mixed-integer programming.  Tools I plan to explore are Pyomo, and potentially PuLP and SciPy.
